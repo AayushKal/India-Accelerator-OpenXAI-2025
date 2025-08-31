@@ -13,3 +13,6 @@ A simple multilingual chatbot built with Node.js using Ollama's Llama3:latest mo
 1. Clone the repository
 2. Run `npm install` to install dependencies
 3. Run `npm run dev` to run
+
+![alt text](image.png)
+![alt text](image-1.png)
